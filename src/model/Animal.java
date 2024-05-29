@@ -31,9 +31,9 @@ class Duck extends Animal {
         Animal myDog = new Dog();
         Animal myCat = new Duck();
 
-        myAnimal.sound();
-        myDog.sound();
-        myCat.sound();
+//        myAnimal.sound();
+//        myDog.sound();
+//        myCat.sound();
     }
 }
 
